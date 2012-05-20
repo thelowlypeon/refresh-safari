@@ -1,0 +1,19 @@
+Refresh Safari
+Author: Peter Compernolle
+Date: 2012-05-20
+
+This script is super simple, with an extremely focused purpose:
+
+While web developing, especially when making minor CSS changes, you often have to save the file in your text editor, then press apple-tab to change focus to your browser, then hit apple-r to refresh to see the changes.
+
+Worse, sometimes you need to hit apple-tab a few times because you've used another application since the last time you refreshed the browser. This usually results in me pressing apple-r when in another app, yielding undesireable consequences.
+
+This script simply refreshes the current tab in Safari.
+
+If you use Launchbar or Quicksilver, or even Apple's spotlight, just throw this script somewhere indexable, then run it.
+
+You can run it while focus is on any other program (and Launchbar, Quicksilver, and Spotlight all can be called from anywhere, any time).
+
+You'll need to open it first with AppleScript editor and compile it.
+
+Enjoy!
